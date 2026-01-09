@@ -1,0 +1,5 @@
+{
+  "name": "Foodie We",
+  "description": "A comprehensive food ordering application featuring a vibrant yellow-orange theme, user authentication, hotel browsing, cart management, and a robust admin dashboard for managing hotels, items, orders, and platform settings.",
+  "requestFramePermissions": []
+}
